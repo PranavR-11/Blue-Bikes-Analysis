@@ -1,11 +1,7 @@
 # Blue-Bikes-Analysis
 How do seasonal trends and ridership behaviors differ between casual and registered users across all months, and how can this insight be used to optimize inventory management and marketing strategies?
 
-Here is a suggested README.md for your Blue Bikes Analytics Dashboard project:
-
-Blue Bikes Analytics Dashboard
-
-Overview
+# Overview
 
 This project showcases an interactive Tableau dashboard analyzing Blue Bikes data to uncover key trends in bike usage, trip durations, and station popularity. The dashboard provides actionable insights for understanding user behavior across customer and subscriber types.
 
@@ -19,7 +15,7 @@ Business Questions Addressed
 	4.	Geospatial Analysis:
 	•	Where are the most popular bike stations located geographically?
 
-Insights
+# Insights
 	1.	Monthly Usage Trends:
 	•	Bike usage is consistently higher for Subscribers across all months, with a peak in July and August.
 	2.	Trip Duration Patterns:

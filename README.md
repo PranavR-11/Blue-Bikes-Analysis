@@ -3,6 +3,8 @@ How do seasonal trends and ridership behaviors differ between casual and registe
 
 <img width="997" alt="image" src="https://github.com/user-attachments/assets/37296e40-0fd2-4c23-846e-2e906b7b1678" />
 
+Tableau Public Link: 
+https://public.tableau.com/views/PranavR_BlueBikes_Assignment/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 # Overview
 
